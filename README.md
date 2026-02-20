@@ -1,3 +1,3 @@
 # microserviceProject
-This is micro service project DEMO
+This is micro service project. 
 Author - Manazir Raza
